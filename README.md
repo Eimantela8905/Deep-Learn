@@ -11,7 +11,7 @@ Use this example to draw your Tables
 
 | Name | Value | Description |
 |------|-------|-------------|
-| Georgios | Sep. 2018 | kaimo jurgis žinoma |
+| 123 | Oct. 2018 | 456 |
 
 ## Text highlights
 
